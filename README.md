@@ -1,4 +1,4 @@
-# ImageAnalystCV2-models
+# ImageAnalyst CV2 models
 
 This repository stores the CV2 models.
 
